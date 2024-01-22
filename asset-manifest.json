@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cc472bcd.css",
-    "main.js": "/static/js/main.18d363cc.js",
+    "main.js": "/static/js/main.d029ddad.js",
     "static/js/787.2dd88b8f.chunk.js": "/static/js/787.2dd88b8f.chunk.js",
     "static/media/profile.jpg": "/static/media/profile.0db28a9fdc5647cc4d8a.jpg",
     "static/media/MoteurGranby.png": "/static/media/MoteurGranby.2adc59924fb4cffb411d.png",
@@ -24,6 +24,7 @@
     "static/media/about.jpg": "/static/media/about.603a7dd6a8bca88069f2.jpg",
     "static/media/AuthenticS.png": "/static/media/AuthenticS.a7ab45a334edcb58d9ae.png",
     "static/media/sexxxplus.png": "/static/media/sexxxplus.a55fcd33a9fcaa9f42df.png",
+    "static/media/Aura.png": "/static/media/Aura.c1364027566ebeeeb529.png",
     "static/media/BulletVPN.png": "/static/media/BulletVPN.c64a147499e98b0e81e2.png",
     "static/media/verb.png": "/static/media/verb.6fd8f08a792b82e3ea8c.png",
     "static/media/naturesage.png": "/static/media/naturesage.fb7f2f000e8339a775e5.png",
@@ -31,11 +32,11 @@
     "static/media/hand.svg": "/static/media/hand.330b49cc7cd3bedaa20e738eb0d42fc1.svg",
     "index.html": "/index.html",
     "main.cc472bcd.css.map": "/static/css/main.cc472bcd.css.map",
-    "main.18d363cc.js.map": "/static/js/main.18d363cc.js.map",
+    "main.d029ddad.js.map": "/static/js/main.d029ddad.js.map",
     "787.2dd88b8f.chunk.js.map": "/static/js/787.2dd88b8f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc472bcd.css",
-    "static/js/main.18d363cc.js"
+    "static/js/main.d029ddad.js"
   ]
 }
